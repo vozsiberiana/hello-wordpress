@@ -1,4 +1,5 @@
 #!/bin/sh
+
 docker run \
 --detach \
 --name some-mariadb \
